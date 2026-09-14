@@ -1,0 +1,17 @@
+POST http://127.0.0.1:8080/accounts
+Content-Type: application/json
+
+{
+    "owner": "F. Scott Fitzgerald",
+    "currency": "USD"
+}
+
+###
+
+POST http://127.0.0.1:8080/accounts
+Content-Type: application/json
+
+{
+    "owner": "Harper Lee",
+    "currency": "USD"
+}

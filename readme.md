@@ -37,3 +37,18 @@ go get github./lib/pq
 ```
 go get github.com/stretchr/testify
 ```
+
+## Installing Gin
+```
+go get -u github.com/gin-gonic/gin
+```
+
+## Installing Viper
+```
+go get github.com/spf13/viper
+```
+
+## Installing Go Mock
+```
+go install github.com/golang/mock/mockgen@v1.6.0
+```
